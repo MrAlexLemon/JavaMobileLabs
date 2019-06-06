@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\MobileDevelopment\\simpleAndroidAudioPlayer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\song.mp3",
+        "source": "C:\\Users\\Alex\\Desktop\\MobileDevelopment\\simpleAndroidAudioPlayer\\app\\src\\main\\res\\raw\\song.mp3"
+    },
+    {
+        "merged": "C:\\AndroidStudioFiles\\SimpleAudioPlayer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\song.mp3",
+        "source": "C:\\AndroidStudioFiles\\SimpleAudioPlayer\\app\\src\\main\\res\\raw\\song.mp3"
+    }
+]

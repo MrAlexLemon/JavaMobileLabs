@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alex\Desktop\MobileDevelopment\simpleAndroidAudioPlayer\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Alex\Desktop\MobileDevelopment\simpleAndroidAudioPlayer\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_9df78146700bea252a314fe94549d27e2e986145.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alex\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Alex\Desktop\MobileDevelopment\simpleAndroidAudioPlayer\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_60908a0ac85a015676e35d77b5646351099afbcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alex\Desktop\MobileDevelopment\simpleAndroidAudioPlayer\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Alex\Desktop\MobileDevelopment\simpleAndroidAudioPlayer\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_94e993358aa9ff0492af338ad587cb7bcfd677cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alex\Desktop\MobileDevelopment\simpleAndroidAudioPlayer\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Alex\Desktop\MobileDevelopment\simpleAndroidAudioPlayer\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_7f172e883496d17b20e1719fbf1269b7f633117e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alex\Desktop\MobileDevelopment\simpleAndroidAudioPlayer\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Alex\Desktop\MobileDevelopment\simpleAndroidAudioPlayer\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_68abc016f3c6214b65fbd781cde2c8f14c8fa7d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alex\Desktop\MobileDevelopment\simpleAndroidAudioPlayer\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Alex\Desktop\MobileDevelopment\simpleAndroidAudioPlayer\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_4ade6fe31cd7e5b9f351c755366ec9e7e4fa25d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alex\Desktop\MobileDevelopment\simpleAndroidAudioPlayer\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Alex\Desktop\MobileDevelopment\simpleAndroidAudioPlayer\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_1d91b72d25de8f978367cd357420e16b6bcc897f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alex\Desktop\MobileDevelopment\simpleAndroidAudioPlayer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Alex\Desktop\MobileDevelopment\simpleAndroidAudioPlayer\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_47df56f42868cbf50790642379226fa14c37ba56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alex\Desktop\MobileDevelopment\simpleAndroidAudioPlayer\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Alex\Desktop\MobileDevelopment\simpleAndroidAudioPlayer\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_f717c322e009d538e9de0f97c42c98b4da3df757.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alex\Desktop\MobileDevelopment\simpleAndroidAudioPlayer\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Alex\Desktop\MobileDevelopment\simpleAndroidAudioPlayer\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_9cfbf3e9b2332071e9697f07620c5c106ec98b1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alex\Desktop\MobileDevelopment\simpleAndroidAudioPlayer\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Alex\Desktop\MobileDevelopment\simpleAndroidAudioPlayer\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_006db6e012eb03cd8586269cb489fbed21bbb71e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alex\Desktop\MobileDevelopment\simpleAndroidAudioPlayer\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Alex\Desktop\MobileDevelopment\simpleAndroidAudioPlayer\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_76ec1b25abe80f14239f93cb0a77f89cea89abc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alex\Desktop\MobileDevelopment\simpleAndroidAudioPlayer\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Alex\Desktop\MobileDevelopment\simpleAndroidAudioPlayer\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_91afe3c9d0a50b8ffd5f1b2af982556176eb2507.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alex\Desktop\MobileDevelopment\simpleAndroidAudioPlayer\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Alex\Desktop\MobileDevelopment\simpleAndroidAudioPlayer\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_d484ed3233cc1cb064777bab255d4e7046adadca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alex\Desktop\MobileDevelopment\simpleAndroidAudioPlayer\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Alex\Desktop\MobileDevelopment\simpleAndroidAudioPlayer\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_eedb64478a75d18df6d73c1b3556b90d7e281088.jar" />
+    </item>
+
+</items>

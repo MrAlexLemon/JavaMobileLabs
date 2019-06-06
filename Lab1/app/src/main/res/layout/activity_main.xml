@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/activity_main"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TableRow>
+            <TextView
+                android:textSize="22sp"
+                android:text="Choose your flowers"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textColor="@android:color/background_dark"
+                android:layout_weight="1" />
+
+        </TableRow>
+
+        <TableRow>
+            <TextView
+                android:textSize="22sp"
+                android:text="Name of flowers"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:textColor="@android:color/background_dark"/>
+
+            <EditText
+                android:id="@+id/editName"
+                android:textSize="22sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@android:color/background_dark"
+                android:layout_weight="1"/>
+        </TableRow>
+
+
+        <TableRow>
+            <TextView
+                android:textSize="20sp"
+                android:text="Price"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textColor="@android:color/background_dark"/>
+            <SeekBar
+                android:id="@+id/seekBar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:progress="20"
+                android:gravity="center_horizontal"
+                android:paddingTop="15dp"
+                android:max="50"
+                android:layout_weight="1"/>
+
+            <TextView
+                android:id="@+id/txtView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:layout_centerHorizontal="true"
+                android:gravity="center_horizontal"
+                android:textSize="30sp"
+                />
+        </TableRow>
+
+        <TableRow>
+            <TextView
+                android:textSize="20sp"
+                android:text="Choose color"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textColor="@android:color/background_dark"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_gravity="center">
+
+                <RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:id="@+id/radios"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical" >
+
+                    <RadioButton android:id="@+id/white"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="White"
+                        android:onClick="onRadioButtonClicked"/>
+                    <RadioButton android:id="@+id/red"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Red"
+                        android:onClick="onRadioButtonClicked"/>
+
+                    <RadioButton android:id="@+id/bright"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Bright"
+                        android:onClick="onRadioButtonClicked"/>
+                    <RadioButton android:id="@+id/dark"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Dark"
+                        android:onClick="onRadioButtonClicked"/>
+
+                </RadioGroup>
+
+            </LinearLayout>
+        </TableRow>
+        <TableRow>
+            <Button
+                android:text="Ok"
+                android:id="@+id/button1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1" />
+        </TableRow>
+        <TableRow>
+
+            <LinearLayout
+                android:layout_width="25dp"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:layout_gravity="center"
+                android:layout_weight="1">
+
+
+            <TextView
+                android:id="@+id/result"
+                android:textSize="18sp"
+                android:text=""
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textAlignment="center"
+                android:textColor="@android:color/background_dark"
+                 />
+
+            </LinearLayout>
+
+        </TableRow>
+    </TableLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>
